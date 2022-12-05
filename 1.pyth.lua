@@ -1,0 +1,6 @@
+f=open('abc.txt','w')
+f.write("abcde")
+f.write("ABCGEF")
+f.write("0123456789")
+f.write("India is Asian Country")
+f.close()
